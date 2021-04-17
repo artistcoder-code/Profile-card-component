@@ -21,3 +21,5 @@ I could use any tools I want to help me complete the challenge.
 
 ### Prewie of My Solution
 
+[CodePen](https://codepen.io/MBeznytska/pen/RwKBxjq)
+
