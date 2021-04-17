@@ -19,7 +19,7 @@ I could use any tools I want to help me complete the challenge.
 
 ### Build with HTML5 and CSS3.
 
-### Prewie of My Solution
+### Click below to preview my solution
 
 [CodePen](https://codepen.io/MBeznytska/pen/RwKBxjq)
-
+[Live Vercel App](https://profile-card-component-khaki-mu.vercel.app/)
